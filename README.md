@@ -1,3 +1,3 @@
 # Tabitha-s
 A start over
-# The song called Miridian by Dave
+# The song is called Miridian by Dave
